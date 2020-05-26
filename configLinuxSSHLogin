@@ -1,0 +1,4 @@
+#配置linux免密登录
+ssh-keygen
+ssh-copy-id hap1
+ssh-copy-id hap2
